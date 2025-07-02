@@ -14,7 +14,7 @@
 2.Descrição dos módulos implementados:
   Módulo 1: Implementamos as classes: "Hogwarts, Aluno, Administrador" como arquivos separados e o app.php que ao ser rodado vai usar todas as classes para rodar, e convidar os Alunos com idade certa para Hogwarts automaticamente, que tem a opção de aceitar ou não entrar em Hogwarts com o convite sendo por um email enviado pelo Administrador de Hogwarts. Este modulo foi feito inteiramente pelo Kauan Teodoro Lucio, dia 30/05/2025.
   
-  Módulo 2: Implementação da classe Chapéu Seletor em um unico arquivo que ao ser rodado irá sortear aleatoriamente as casas correspondentes para os alunos que foram implementados nas classes do módulo 1. este módulo foi feito por João Guerra e Thainá, e entregue completamente no Dia 11/06/2025.
+  Módulo 2: Implementação da classe Chapéu Seletor em um unico arquivo que ao ser rodado irá sortear aleatoriamente as casas correspondentes para os alunos que foram implementados nas classes do módulo 1. este módulo foi feito por João Guerra e Thainá, e entregue completamente no Dia 02/07/2025.
   
   Módulo 3:
   
