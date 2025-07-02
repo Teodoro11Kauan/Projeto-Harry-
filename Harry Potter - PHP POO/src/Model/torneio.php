@@ -1,6 +1,6 @@
 <?php
 
-//Classe Aluno
+
 class Aluno {
     public $nome;
     public $casa;
@@ -23,7 +23,6 @@ class Aluno {
     }
 }
 
-//Classe Casa
 class Casa {
     public $nome;
     public $pontuacaoTotal;
@@ -38,7 +37,7 @@ class Casa {
     }
 }
 
-//Classe Torneio
+
 class Torneio {
     public $nome;
     public $desafios;
@@ -75,7 +74,7 @@ class Torneio {
     }
 }
 
-//Funções para mostrar os rankings
+
 function mostrarRankingAlunos($alunos) {
     echo "<h3>Ranking por Aluno</h3>";
 
@@ -111,7 +110,7 @@ function mostrarRankingCasas($alunos) {
     }
 }
 
-//Teste
+
 $casa1 = new Casa("Grifinória");
 $casa2 = new Casa("Sonserina");
 
