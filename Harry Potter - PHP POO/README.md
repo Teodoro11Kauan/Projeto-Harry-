@@ -16,7 +16,7 @@
   
   Módulo 2: Implementação da classe Chapéu Seletor em um unico arquivo que ao ser rodado irá sortear aleatoriamente as casas correspondentes para os alunos que foram implementados nas classes do módulo 1. este módulo foi feito por João Guerra e Thainá, e entregue completamente no Dia 02/07/2025.
   
-  Módulo 3:
+  Módulo 3: O código define três classes Aluno, Casa e Torneio, para gerenciar um campeonato de pontos: Aluno armazena nome, casa, inscrição e pontuação; Casa acumula a pontuação de seus alunos; Torneio registra alunos, adiciona desafios mapeando nomes a pontos e distribui esses pontos aos inscritos. As funções de apoio ordenam e exibem o ranking individual e o ranking por casa.
   
   Módulo 4:
   
