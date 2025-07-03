@@ -23,7 +23,8 @@
   Módulo 5: Implementação da classe professores com nome e e-mail em um único código. Permite adicionar as disciplinas, horários e atividades deles.
   Depois, mostra todas essas informações organizadas na tela.n Este módulo foi feito por Elenara e Vinicius Freira completamente dia 02/07/2025
   
-  Módulo 6:
+  Módulo 6: Implementação da classe Sistema de Comunicação, este código permite que um administrador envie mensagens importantes para qualquer tipo de usuário, as mensagens podem ser enviadas imediatamente ou em datas futuras, o sistema também utiliza diferentes canais de comunicação (Notificação Interna para alunos e E-mail).
+  feito por Pablo Henrique Silva Calogi.
 
   3.Instruçoes de Execução:
     Basta apenas rodar o arquivo 'app.php' presente na pasta principal do repositorio em algum Terminal em uma maquina com php instalado.
