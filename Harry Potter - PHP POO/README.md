@@ -18,7 +18,13 @@
   
   Módulo 3: O código define três classes Aluno, Casa e Torneio, para gerenciar um campeonato de pontos: Aluno armazena nome, casa, inscrição e pontuação; Casa acumula a pontuação de seus alunos; Torneio registra alunos, adiciona desafios mapeando nomes a pontos e distribui esses pontos aos inscritos. As funções de apoio ordenam e exibem o ranking individual e o ranking por casa.
   
-  Módulo 4:
+  Módulo 4:A gente criou uma classe chamada Aluno, com o nome e a casa do aluno.
+Depois, tem uma outra classe chamada Registro, que guarda o aluno, o motivo da punição e a data.
+Tem também um controle que salva esses registros e mostra tudo depois.
+No final, o código cria alguns alunos, registra o que eles fizeram de errado, e mostra tudo na tela.
+Exemplo:
+Harry Potter (Grifinória): Usou feitiço fora da sala.
+É isso! Tudo feito em PHP, de forma organizada.
   
   Módulo 5: Implementação da classe professores com nome e e-mail em um único código. Permite adicionar as disciplinas, horários e atividades deles.
   Depois, mostra todas essas informações organizadas na tela.n Este módulo foi feito por Elenara e Vinicius Freira completamente dia 02/07/2025
