@@ -20,7 +20,8 @@
   
   Módulo 4:
   
-  Módulo 5:
+  Módulo 5: Implementação da classe professores com nome e e-mail em um único código. Permite adicionar as disciplinas, horários e atividades deles.
+  Depois, mostra todas essas informações organizadas na tela.n Este módulo foi feito por Elenara e Vinicius Freira completamente dia 02/07/2025
   
   Módulo 6:
 
